@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+   <CubeBlocks>
+   	  <Definition>
+         <Id>
+		    <TypeId>CubeBlock</TypeId>
+            <SubtypeId>SS_negative_Half_Slope</SubtypeId>
+         </Id>
+         <DisplayName>Negative Half Slope</DisplayName>
+         <Icon>Textures\GUI\Icons\Negative_Half_slope.png</Icon>
+		 <GuiVisible>false</GuiVisible>
+         <CubeSize>Large</CubeSize>
+         <BlockTopology>TriangleMesh</BlockTopology>
+         <Size x="1" y="1" z="1" />
+         <ModelOffset x="0" y="0" z="0" />
+         <Center x="0" y="0" z="0" />
+         <Model>Models\blocks\Half_Slope_Large.mwm</Model>
+         <Components>
+                <Component Subtype="Steelplate" Count="25" />
+         </Components>
+         <CriticalComponent Subtype="SteelPlate" Index="0" />
+         <MountPoints>
+			<MountPoint Side="Back" StartX="0.00" StartY="0.00" EndX="1.00" EndY="1.00" />
+			<MountPoint Side="Front" StartX="0.00" StartY="0.00" EndX="1.00" EndY="1.00" />
+			<MountPoint Side="Left" StartX="0.00" StartY="0.00" EndX="1.00" EndY="1.00" />
+			<MountPoint Side="Right" StartX="0.00" StartY="0.00" EndX="1.00" EndY="1.00" />
+			<MountPoint Side="Bottom" StartX="0.00" StartY="0.00" EndX="1.00" EndY="1.00" />
+			<MountPoint Side="Top" StartX="0.00" StartY="0.00" EndX="1.00" EndY="1.00" />
+         </MountPoints>
+         <BuildProgressModels>
+				<!--Model BuildPercentUpperBound="0.33" File="Models\NanobotBuildAndRepairSystem\SELtdLargeNanobotBuildAndRepairSystem_Constr1.mwm" /-->
+         </BuildProgressModels>
+		 <EdgeType>Light</EdgeType>
+         <BuildTimeSeconds>10</BuildTimeSeconds>
+         <MirroringX>Y</MirroringX>
+         <MirroringY>None</MirroringY>
+         <MirroringZ>X</MirroringZ>
+         <PCU>1</PCU>
+		 <IsAirTight>true</IsAirTight>
+      </Definition>
+	  
+	  <Definition>
+         <Id>
+		    <TypeId>CubeBlock</TypeId>
+            <SubtypeId>SS_Small_Corner</SubtypeId>
+         </Id>
+         <DisplayName>Light Armor Tiny Corner</DisplayName>
+         <Icon>Textures\GUI\Icons\Tiny_Corner.png</Icon>
+		 <GuiVisible>false</GuiVisible>
+         <CubeSize>Large</CubeSize>
+         <BlockTopology>TriangleMesh</BlockTopology>
+         <Size x="1" y="1" z="1" />
+         <ModelOffset x="0" y="0" z="0" />
+         <Center x="0" y="0" z="0" />
+         <Model>Models\blocks\Small_Corner.mwm</Model>
+         <Components>
+				<Component Subtype="SteelPlate" Count="1" />
+                <Component Subtype="SteelPlate" Count="2" />
+         </Components>
+         <CriticalComponent Subtype="SteelPlate" Index="0" />
+         <MountPoints>
+			<MountPoint Side="Back" StartX="0.00" StartY="0.00" EndX="1.00" EndY="1.00" />
+			<MountPoint Side="Front" StartX="0.00" StartY="0.00" EndX="1.00" EndY="1.00" />
+			<MountPoint Side="Left" StartX="0.00" StartY="0.00" EndX="1.00" EndY="1.00" />
+			<MountPoint Side="Right" StartX="0.00" StartY="0.00" EndX="1.00" EndY="1.00" />
+			<MountPoint Side="Bottom" StartX="0.00" StartY="0.00" EndX="1.00" EndY="1.00" />
+			<MountPoint Side="Top" StartX="0.00" StartY="0.00" EndX="1.00" EndY="1.00" />
+         </MountPoints>
+         <BuildProgressModels>
+				<!--Model BuildPercentUpperBound="0.33" File="Models\NanobotBuildAndRepairSystem\SELtdLargeNanobotBuildAndRepairSystem_Constr1.mwm" /-->
+         </BuildProgressModels>
+		 <EdgeType>Light</EdgeType>
+         <BuildTimeSeconds>10</BuildTimeSeconds>
+         <MirroringX>Y</MirroringX>
+         <MirroringY>None</MirroringY>
+         <MirroringZ>X</MirroringZ>
+         <PCU>1</PCU>
+		 <IsAirTight>true</IsAirTight>
+      </Definition>
+	  
+	<Definition>
+		<Id>
+			<SubtypeId>SS_LA_half_slope_top_Large</SubtypeId>
+		</Id>
+		<DisplayName>Light Armor Half Slope Top</DisplayName>
+		<Icon>Textures\Icons\half_slope_top.dds</Icon>
+		<CubeSize>Large</CubeSize>
+		<BlockTopology>TriangleMesh</BlockTopology>
+		<Size x="1" y="1" z="1" />
+		<ModelOffset x="0" y="0" z="0" />
+		<Model>Models\blocks\half_slope_top_Large.mwm</Model>
+		 <Components>
+                <Component Subtype="Steelplate" Count="25" />
+         </Components>
+         <CriticalComponent Subtype="SteelPlate" Index="0" />
+		<MountPoints>
+			<MountPoint Side="Front" StartX="0.00" StartY="0.00" EndX="1.00" EndY="1.00" />
+			<MountPoint Side="Back" StartX="0.00" StartY="0.00" EndX="1.00" EndY="0.50" />
+			<MountPoint Side="Left" StartX="0.00" StartY="0.00" EndX="1.00" EndY="1.00" />
+			<MountPoint Side="Right" StartX="0.00" StartY="0.00" EndX="1.00" EndY="0.50" />
+			<MountPoint Side="Bottom" StartX="0.00" StartY="0.00" EndX="1.00" EndY="1.00" />
+		</MountPoints>
+		<MirroringX>HalfY</MirroringX>
+		<MirroringY>XHalfY</MirroringY>
+		<MirroringZ>MinusHalfY</MirroringZ>
+		<BlockPairName>half_slope_top</BlockPairName>
+	</Definition>
+
+   
+   </CubeBlocks>
+</Definitions>

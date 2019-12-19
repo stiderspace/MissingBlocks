@@ -1,0 +1,12 @@
+Running from: C:\Users\STIDER~1\AppData\Local\Temp\tmpzhj4zrwz 
+Command: D:\Programing\SpaceEngineersModding\SDK\steamapps\common\SpaceEngineersModSDK\Tools\MwmBuilder\MwmBuilder.exe /s:Sources /m:slope_tip_Corner_Large.fbx /o:.\ 
+: ERROR: 
+    Could not find Materials library folder.
+C:\Users\stiderspace\AppData\Local\Temp\tmpzhj4zrwz\Sources\slope_tip_Corner_Large.fbx: ERROR: 
+    Texture Textures\Models\Cubes\PaintedMetalColorable_cm.DDS does not exist!
+C:\Users\stiderspace\AppData\Local\Temp\tmpzhj4zrwz\Sources\slope_tip_Corner_Large.fbx: ERROR: 
+    Texture Textures\Models\Cubes\PaintedMetalColorable_ng.DDS does not exist!
+C:\Users\stiderspace\AppData\Local\Temp\tmpzhj4zrwz\Sources\slope_tip_Corner_Large.fbx: ERROR: 
+    Texture Textures\Models\Cubes\PaintedMetalColorable_add.DDS does not exist!
+C:\Users\stiderspace\AppData\Local\Temp\tmpzhj4zrwz\Sources\slope_tip_Corner_Large.fbx: 
+    : Finished in 0.2s
