@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Model Name="Slope_Straight_Corner">
+	<Parameter Name="RescaleFactor">0.01</Parameter>
+	<Parameter Name="RescaleToLengthInMeters">false</Parameter>
+	<Parameter Name="Centered">false</Parameter>
+	<Material Name="corner_and_face_triangle_2x1">
+		<Parameter Name="Technique">AUTO</Parameter>
+		<Parameter Name="ColorMetalTexture">Textures\Models\Cubes\Armor\large_light_2x1_triangles_cm.DDS</Parameter>
+		<Parameter Name="NormalGlossTexture">Textures\Models\Cubes\Armor\large_light_2x1_triangles_ng.DDS</Parameter>
+		<Parameter Name="AddMapsTexture">Textures\Models\Cubes\Armor\large_light_2x1_triangles_add.DDS</Parameter>
+		<!--material has no AlphamaskTexture-->
+	</Material>
+</Model>

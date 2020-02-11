@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Definition>
+	<Id>
+		<SubtypeId>half_slope_tip_Small</SubtypeId>
+	</Id>
+	<Icon>Textures\Icons\half_slope_tip.dds</Icon>
+	<CubeSize>Small</CubeSize>
+	<BlockTopology>TriangleMesh</BlockTopology>
+	<Size x="1" y="1" z="1" />
+	<ModelOffset x="0" y="0" z="0" />
+	<Model>Models\Blocks\half_slope_tip_Small.mwm</Model>
+	<BuildProgressModels>
+		<Model BuildPercentUpperBound="1.00" File="Models\Blocks\half_slope_tip_Small_Constr1.mwm" />
+	</BuildProgressModels>
+	<MountPoints>
+		<MountPoint Side="Back" StartX="0.00" StartY="0.00" EndX="1.00" EndY="0.50" />
+		<MountPoint Side="Right" StartX="0.00" StartY="0.00" EndX="1.00" EndY="0.50" />
+		<MountPoint Side="Bottom" StartX="0.00" StartY="0.00" EndX="1.00" EndY="1.00" />
+	</MountPoints>
+	<MirroringX>HalfY</MirroringX>
+	<MirroringY>XHalfY</MirroringY>
+	<MirroringZ>MinusHalfY</MirroringZ>
+	<BlockPairName>half_slope_tip</BlockPairName>
+</Definition>

@@ -1,0 +1,13 @@
+Command: D:\Programing\SpaceEngineersModding\Modding\SpaceEngineers\Havok\HavokContentTools\hctStandAloneFilterManager.exe -t -s C:\Users\STIDER~1\AppData\Local\Temp\space_engineers_0nb5a54l.hko -p D:\Programing\SpaceEngineersModding\Mods\MissingBlocks\Models\Windows\Centered_Window_Large.hkt D:\Programing\SpaceEngineersModding\Mods\MissingBlocks\Models\Windows\Centered_Window_Large.hkt 
+[ Processing All Configurations... ]
+    
+    ========== Started: Fri Dec 20 17:32:22 2019, Configuration: default ==========
+    
+    [ [Physics 2012] Create Rigid Bodies Filter ]
+        [0xabbabfd2] Warning : 'Cube' - Calculated 'extra radius' for box shape is 0. Performance may be affected.
+        Created 1 rigid bodies.
+    [ Prune Types Filter ]
+    [ Write to Platform Filter ]
+        Wrote layout for [Tagfile] to file [D:\Programing\SpaceEngineersModding\Mods\MissingBlocks\Models\Windows\Centered_Window_Large.hkt].
+    
+    ========== Finished in 00:00:00, 0 Errors, 1 Warnings ==========

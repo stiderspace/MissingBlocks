@@ -1,0 +1,12 @@
+Command: D:\Programing\SpaceEngineersModding\Modding\SpaceEngineers\Havok\HavokContentTools\hctStandAloneFilterManager.exe -t -s C:\Users\STIDER~1\AppData\Local\Temp\space_engineers_qlcd_4ks.hko -p D:\Programing\SpaceEngineersModding\Mods\MissingBlocks\Models\Windows\Half_Slope_Window_Small.hkt D:\Programing\SpaceEngineersModding\Mods\MissingBlocks\Models\Windows\Half_Slope_Window_Small.hkt 
+[ Processing All Configurations... ]
+    
+    ========== Started: Fri Dec 20 17:11:30 2019, Configuration: default ==========
+    
+    [ [Physics 2012] Create Rigid Bodies Filter ]
+        Created 1 rigid bodies.
+    [ Prune Types Filter ]
+    [ Write to Platform Filter ]
+        Wrote layout for [Tagfile] to file [D:\Programing\SpaceEngineersModding\Mods\MissingBlocks\Models\Windows\Half_Slope_Window_Small.hkt].
+    
+    ========== Finished in 00:00:00, 0 Errors, 0 Warnings ==========

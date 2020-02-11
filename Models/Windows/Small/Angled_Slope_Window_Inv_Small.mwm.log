@@ -1,0 +1,45 @@
+Running from: C:\Users\STIDER~1\AppData\Local\Temp\tmpvqahgj7j 
+Command: D:\Programing\SpaceEngineersModding\Tools\MwmBuilder\MwmBuilder.exe /s:Sources /m:Angled_Slope_Window_Inv_Small.fbx /o:.\ 
+INFO: 
+C:\KeenSWH\Sandbox\MediaBuild\MEContent\Materials\Armors.xml
+Materialslib
+
+INFO: 
+C:\KeenSWH\Sandbox\MediaBuild\MEContent\Materials\Character.xml
+Materialslib
+
+INFO: 
+C:\KeenSWH\Sandbox\MediaBuild\MEContent\Materials\Foliage.xml
+Materialslib
+
+INFO: 
+C:\KeenSWH\Sandbox\MediaBuild\MEContent\Materials\Items.xml
+Materialslib
+
+INFO: 
+C:\KeenSWH\Sandbox\MediaBuild\MEContent\Materials\ItemsLODs.xml
+Materialslib
+
+INFO: 
+C:\KeenSWH\Sandbox\MediaBuild\MEContent\Materials\LargeBlockLODs.xml
+Materialslib
+
+INFO: 
+C:\KeenSWH\Sandbox\MediaBuild\MEContent\Materials\Materials.xml
+Materialslib
+
+INFO: 
+C:\KeenSWH\Sandbox\MediaBuild\MEContent\Materials\PlayerItems.xml
+Materialslib
+
+INFO: 
+C:\KeenSWH\Sandbox\MediaBuild\MEContent\Materials\SmallBlockLODs.xml
+Materialslib
+
+INFO: 
+Material libraries were loaded from path: C:\KeenSWH\Sandbox\MediaBuild\MEContent\Materials !
+
+PROCESSED: 
+C:\Users\stiderspace\AppData\Local\Temp\tmpvqahgj7j\Sources\Angled_Slope_Window_Inv_Small.fbx
+: Finished in 0.2s
+

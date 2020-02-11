@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Definition>
+	<Id>
+		<SubtypeId>Tiny_Corner_Small</SubtypeId>
+	</Id>
+	<Icon>Textures\Icons\Tiny_Corner.dds</Icon>
+	<CubeSize>Small</CubeSize>
+	<BlockTopology>TriangleMesh</BlockTopology>
+	<Size x="1" y="1" z="1" />
+	<ModelOffset x="0" y="0" z="0" />
+	<Model>Models\Blocks\Tiny_Corner_Small.mwm</Model>
+	<BuildProgressModels>
+		<Model BuildPercentUpperBound="1.00" File="Models\Blocks\Tiny_Corner_Small_Constr1.mwm" />
+	</BuildProgressModels>
+	<MountPoints>
+		<MountPoint Side="Front" StartX="0.50" StartY="0.00" EndX="1.00" EndY="0.50" />
+		<MountPoint Side="Left" StartX="0.00" StartY="0.00" EndX="0.50" EndY="0.50" />
+		<MountPoint Side="Bottom" StartX="0.00" StartY="0.00" EndX="0.50" EndY="0.50" />
+	</MountPoints>
+	<MirroringX>HalfY</MirroringX>
+	<MirroringY>XHalfY</MirroringY>
+	<MirroringZ>MinusHalfY</MirroringZ>
+	<BlockPairName>Tiny_Corner</BlockPairName>
+</Definition>

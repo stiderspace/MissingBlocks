@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Model Name="Slope_Straight_Corner">
+	<Parameter Name="RescaleFactor">0.01</Parameter>
+	<Parameter Name="RescaleToLengthInMeters">false</Parameter>
+	<Parameter Name="Centered">false</Parameter>
+	<Material Name="small_corner_and_face_triangle">
+		<Parameter Name="Technique">MESH</Parameter>
+		<Parameter Name="ColorMetalTexture">Textures\Models\Cubes\Armor\small_corner_and_face_triangle_cm.dds</Parameter>
+		<Parameter Name="NormalGlossTexture">Textures\Models\Cubes\Armor\small_corner_and_face_triangle_ng.dds</Parameter>
+		<Parameter Name="AddMapsTexture">Textures\Models\Cubes\Armor\small_corner_and_face_triangle_add.dds</Parameter>
+	</Material>
+	<Material Name="small_SquarePlate">
+		<Parameter Name="Technique">MESH</Parameter>
+		<Parameter Name="ColorMetalTexture">Textures\Models\Cubes\Armor\small_square_plate_cm.dds</Parameter>
+		<Parameter Name="NormalGlossTexture">Textures\Models\Cubes\Armor\small_square_plate_ng.dds</Parameter>
+		<Parameter Name="AddMapsTexture">Textures\Models\Cubes\Armor\small_square_plate_add.dds</Parameter>
+	</Material>
+</Model>

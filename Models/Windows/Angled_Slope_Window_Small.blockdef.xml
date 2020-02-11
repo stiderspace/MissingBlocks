@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Definition>
+	<Id>
+		<SubtypeId>Angled_Slope_Window_Small</SubtypeId>
+	</Id>
+	<Icon>Textures\GUI\Icons\Angled_Slope_Window.dds</Icon>
+	<CubeSize>Small</CubeSize>
+	<BlockTopology>TriangleMesh</BlockTopology>
+	<Size x="1" y="1" z="2" />
+	<ModelOffset x="0" y="0" z="0" />
+	<Model>Models\Windows\Angled_Slope_Window_Small.mwm</Model>
+	<BuildProgressModels>
+		<Model BuildPercentUpperBound="1.00" File="Models\Windows\Angled_Slope_Window_Small_Constr1.mwm" />
+	</BuildProgressModels>
+	<MountPoints>
+		<MountPoint Side="Front" StartX="0.00" StartY="0.00" EndX="0.25" EndY="0.25" />
+		<MountPoint Side="Back" StartX="0.00" StartY="0.75" EndX="0.25" EndY="1.00" />
+		<MountPoint Side="Left" StartX="1.00" StartY="0.00" EndX="1.50" EndY="1.00" />
+		<MountPoint Side="Right" StartX="1.00" StartY="0.00" EndX="1.50" EndY="1.00" />
+		<MountPoint Side="Bottom" StartX="0.00" StartY="0.50" EndX="1.00" EndY="1.00" />
+		<MountPoint Side="Top" StartX="0.00" StartY="0.50" EndX="1.00" EndY="1.00" />
+	</MountPoints>
+	<MirroringBlock>Angled_Slope_Window_Inv_Small</MirroringBlock>
+	<MirroringX>None</MirroringX>
+	<MirroringY>Z</MirroringY>
+	<MirroringZ>Y</MirroringZ>
+	<BlockPairName>Angled_Slope_Window</BlockPairName>
+</Definition>

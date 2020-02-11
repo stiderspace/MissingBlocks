@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Definition>
+	<Id>
+		<SubtypeId>Centered_Window_Small</SubtypeId>
+	</Id>
+	<Icon>Textures\Icons\Centered_Window.dds</Icon>
+	<CubeSize>Small</CubeSize>
+	<BlockTopology>TriangleMesh</BlockTopology>
+	<Size x="1" y="1" z="1" />
+	<ModelOffset x="0" y="0" z="0" />
+	<Model>Models\Windows\Centered_Window_Small.mwm</Model>
+	<BuildProgressModels>
+		<Model BuildPercentUpperBound="1.00" File="Models\Windows\Centered_Window_Small_Constr1.mwm" />
+	</BuildProgressModels>
+	<MountPoints>
+		<MountPoint Side="Front" StartX="0.48" StartY="0.00" EndX="0.52" EndY="1.00" />
+		<MountPoint Side="Back" StartX="0.48" StartY="0.00" EndX="0.52" EndY="1.00" />
+		<MountPoint Side="Bottom" StartX="0.48" StartY="0.00" EndX="0.52" EndY="1.00" />
+		<MountPoint Side="Top" StartX="0.48" StartY="0.00" EndX="0.52" EndY="1.00" />
+	</MountPoints>
+	<MirroringX>Y</MirroringX>
+	<MirroringY>None</MirroringY>
+	<MirroringZ>None</MirroringZ>
+	<BlockPairName>Centered_Window</BlockPairName>
+</Definition>

@@ -1,6 +1,0 @@
-Running from: C:\Users\STIDER~1\AppData\Local\Temp\tmp8mnil1f7 
-Command: D:\Programing\SpaceEngineersModding\SDK\steamapps\common\SpaceEngineersModSDK\Tools\MwmBuilder\MwmBuilder.exe /s:Sources /m:wierd_slope_Large.fbx /o:.\ 
-: ERROR: 
-    Could not find Materials library folder.
-C:\Users\stiderspace\AppData\Local\Temp\tmp8mnil1f7\Sources\wierd_slope_Large.fbx: 
-    : Finished in 0.3s

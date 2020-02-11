@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Definition>
+	<Id>
+		<SubtypeId>slope tip Corner_Large</SubtypeId>
+	</Id>
+	<Icon>Textures\Icons\slope tip Corner.dds</Icon>
+	<CubeSize>Large</CubeSize>
+	<BlockTopology>TriangleMesh</BlockTopology>
+	<Size x="1" y="1" z="1" />
+	<ModelOffset x="0" y="0" z="0" />
+	<Model>Models\Blocks\slope tip Corner_Large.mwm</Model>
+	<BuildProgressModels>
+		<Model BuildPercentUpperBound="1.00" File="Models\Blocks\slope tip Corner_Large_Constr1.mwm" />
+	</BuildProgressModels>
+	<MountPoints>
+		<MountPoint Side="Front" StartX="0.00" StartY="0.00" EndX="1.00" EndY="0.50" />
+		<MountPoint Side="Left" StartX="0.00" StartY="0.00" EndX="1.00" EndY="0.50" />
+		<MountPoint Side="Bottom" StartX="0.00" StartY="0.00" EndX="1.00" EndY="1.00" />
+	</MountPoints>
+	<MirroringX>HalfY</MirroringX>
+	<MirroringY>None</MirroringY>
+	<MirroringZ>MinusHalfY</MirroringZ>
+	<BlockPairName>slope tip Corner</BlockPairName>
+</Definition>

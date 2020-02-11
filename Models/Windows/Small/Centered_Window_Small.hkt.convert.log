@@ -1,0 +1,21 @@
+Command: D:\Programing\SpaceEngineersModding\Modding\SpaceEngineers\FBXImporter.exe D:\Programing\SpaceEngineersModding\Mods\MissingBlocks\Models\Windows\Centered_Window_Small.hkt.fbx D:\Programing\SpaceEngineersModding\Mods\MissingBlocks\Models\Windows\Centered_Window_Small.hkt 
+------------------------------------------------------------------
+ Havok - Build (20130718)
+ Version 2013.1.0-r1
+ Base system initialized.
+------------------------------------------------------------------
+Havok License Keys:
+ Physics_2012     : PcXs (expires PERPETUAL)
+ Animation        : PcXs (expires PERPETUAL)
+------------------------------------------------------------------
+Math\hkMath.cpp(158): [0xDE404A11] Warning: Flushing denormals is required inside Havok code. Please call _MM_SET_FLUSH_ZERO_MODE(_MM_FLUSH_ZERO_ON); before stepping Havok. See the "Using the Math Library" section in the User Guide for more information.
+Modeller: FBX [Blender (stable FBX IO)]
+Bones: 0
+Animation stacks: 0
+Converting nodes for root...
+Output path: D:\Programing\SpaceEngineersModding\Mods\MissingBlocks\Models\Windows\
+-------------------------------------------------------------------------------
+Saved tag file: Centered_Window_Small.hkt
+Number of frames: 1
+Scene length: 0.00
+Root node name: ROOT_NODE
